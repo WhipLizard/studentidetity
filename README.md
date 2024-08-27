@@ -1,6 +1,7 @@
 # studentidetity
 
 # Student Profile Blockchain System
+![27 08 2024_22 35 12_REC](https://github.com/user-attachments/assets/b0af3449-015e-4808-97c2-a88f46935da5)
 
 ## Vision
 The vision of the Student Profile Blockchain System is to create a secure, decentralized, and transparent platform where students can manage and verify their academic credentials and personal information. By leveraging blockchain technology, this platform aims to provide an immutable, easily accessible, and tamper-proof repository for student records, enabling students to share their verified profiles and documents with educational institutions, employers, and other stakeholders, while maintaining full control over their data privacy.
