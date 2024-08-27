@@ -30,7 +30,9 @@ Below is a simplified flowchart of how the system works:
 ## Smart Contract Address
 The smart contract for the Student Profile Blockchain System is deployed on the Ethereum blockchain. The contract address is:
 
-`0xYourContractAddressHere`
+`0x941bAaE6F73b5952E6C3AA39Ed83acbD60C23059`
+![27 08 2024_22 31 28_REC](https://github.com/user-attachments/assets/df933829-3ece-4fe5-9977-15d0997198d9)
+
 
 This address allows interaction with the deployed smart contract for functions like registration, document upload, and profile access.
 
